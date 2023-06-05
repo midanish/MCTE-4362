@@ -6,3 +6,5 @@ Assignment 2 : UAV
 Assignment 3 : AGV/AMR
 
 Assignment 4 : Swarm Robot
+
+Assignment 5 : Humanoid Robot
